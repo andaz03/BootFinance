@@ -1,38 +1,39 @@
-BootFinance – A Comprehensive Banking Application
+**BootFinance** – A Comprehensive Banking Application
 
-Account Management:
+_**Account Management**:
 Developed RESTful services for managing customer accounts (create, update, delete, retrieve).
 Ensured standardized communication between client and server using REST principles.
 
-Data Persistence with JPA:
+_**Data Persistence with JPA:**
 Integrated Java Persistence API (JPA) to manage database operations.
 Handled the schema and data management for customer accounts and transactions.
 Used MySQL as the relational database for storing data.
 
-Secure Authentication with JWT:
+_**Secure Authentication with JWT:**
 Implemented JWT (JSON Web Token) for user authentication and authorization.
 Ensured secure access to APIs, allowing only authenticated users to interact with the application.
 
-Email Notifications:
+_**Email Notifications:**
 Integrated an email service to send notifications for important events (e.g., account creation).
 Enhanced user engagement by keeping customers informed about account activities.
 
-API Testing with Postman:
+_**API Testing with Postman:**
 Utilized Postman to test and validate all RESTful API endpoints.
 Ensured the reliability and correctness of APIs through rigorous testing.
 
-Technology Stack:
-Java, Spring Boot: Core technologies for building and structuring the application.
+**Technology Stack:**
 
-JPA, MySQL: Used for data persistence and database management.
+_Java, Spring Boot : Core technologies for building and structuring the application.
 
-Postman: API testing tool.
+_JPA, MySQL: Used for data persistence and database management.
 
-JWT: For secure user authentication.
+_Postman: API testing tool.
 
-Swagger: For generating interactive API documentation.
+_JWT: For secure user authentication.
 
-Git: Version control for code management.
+_Swagger: For generating interactive API documentation.
+
+_Git: Version control for code management.
 
 
 
