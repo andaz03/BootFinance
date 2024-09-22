@@ -23,10 +23,15 @@ Ensured the reliability and correctness of APIs through rigorous testing.
 
 Technology Stack:
 Java, Spring Boot: Core technologies for building and structuring the application.
+
 JPA, MySQL: Used for data persistence and database management.
+
 Postman: API testing tool.
+
 JWT: For secure user authentication.
+
 Swagger: For generating interactive API documentation.
+
 Git: Version control for code management.
 
 
