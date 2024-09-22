@@ -35,5 +35,10 @@ Ensured the reliability and correctness of APIs through rigorous testing.
 
 * Git: Version control for code management.
 
+**API Documentation**
+To explore the API endpoints, you can use the Swagger interface:
+
+**Navigate to http://localhost:8080/swagger-ui/ after starting the application.**
+
 
 
