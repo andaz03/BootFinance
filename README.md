@@ -1,4 +1,4 @@
-#**BootFinance** – A Comprehensive Banking Application
+#BootFinance – A Comprehensive Banking Application
 
 - **Account Management**:
 Developed RESTful services for managing customer accounts (create, update, delete, retrieve).
